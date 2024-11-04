@@ -39,7 +39,7 @@ Select your desired simulator or device, and hit run to start your learning jour
 
 ### Onboarding Experience 👋🏼
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/b0daef35-8893-4547-9257-6c9cd6ef87ff" alt="Onboarding" width="300">
+    <img src="https://github.com/user-attachments/assets/b0daef35-8893-4547-9257-6c9cd6ef87ff" alt="Onboarding" width="200">
 </p>
 
 ### Progress Dashboard 🦾🔥
