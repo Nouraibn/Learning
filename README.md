@@ -38,17 +38,15 @@ Select your desired simulator or device, and hit run to start your learning jour
 ## Visual Showcase 📸
 
 ### Onboarding Experience 👋🏼
-![Onboarding](https://github.com/user-attachments/assets/b0daef35-8893-4547-9257-6c9cd6ef87ff)
-
+<img src="https://github.com/user-attachments/assets/b0daef35-8893-4547-9257-6c9cd6ef87ff" alt="Onboarding" width="300">
 
 ### Progress Dashboard 🦾🔥
-![Current day - Default](https://github.com/user-attachments/assets/74b0e00e-67c4-4b93-8b7c-da62a21ca4b0)
-![Learned today](https://github.com/user-attachments/assets/7113b84c-5165-4de5-bea8-23860c70d667)
-![Day freezed](https://github.com/user-attachments/assets/b77fa24a-4031-4272-b150-fc07cb06645c)
-
+<img src="https://github.com/user-attachments/assets/74b0e00e-67c4-4b93-8b7c-da62a21ca4b0" alt="Current day - Default" width="300">
+<img src="https://github.com/user-attachments/assets/7113b84c-5165-4de5-bea8-23860c70d667" alt="Learned today" width="300">
+<img src="https://github.com/user-attachments/assets/b77fa24a-4031-4272-b150-fc07cb06645c" alt="Day freezed" width="300">
 
 ### Goal Adjustment 📝
-![Update learning goal - Keyboard](https://github.com/user-attachments/assets/3fae57c2-b11c-4e9e-b89a-3ea980d64a3d)
+<img src="https://github.com/user-attachments/assets/3fae57c2-b11c-4e9e-b89a-3ea980d64a3d" alt="Update learning goal - Keyboard" width="300">
 
 
 ## Future Work ↗️
