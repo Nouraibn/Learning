@@ -4,11 +4,11 @@ Welcome to the Learning App, your personal companion for navigating your learnin
 
 ## Purpose 🎯
 
-The Learning Tracker App aims to cultivate a consistent learning habit by providing users with an intuitive interface to define, track, and celebrate their learning milestones. Whether you’re picking up a new skill or deepening your knowledge, this app keeps you organized and inspired.
+The Learning App aims to cultivate a consistent learning habit by providing users with an intuitive interface to define, track, and celebrate their learning milestones. Whether you’re picking up a new skill or deepening your knowledge, this app keeps you organized and inspired.
 
 ## Why This Project is Valuable 🌟
 
-Learning Tracker is more than just a logging tool; it's a framework for developing sustainable learning habits. By visualizing your progress and offering features like goal setting and freeze days, it encourages accountability and fosters a growth mindset, making it an essential tool for lifelong learners.
+Learning App is more than just a logging tool; it's a framework for developing sustainable learning habits. By visualizing your progress and offering features like goal setting and freeze days, it encourages accountability and fosters a growth mindset, making it an essential tool for lifelong learners.
 
 ## Features 🚀
 
