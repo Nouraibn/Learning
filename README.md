@@ -44,14 +44,14 @@ Select your desired simulator or device, and hit run to start your learning jour
 
 ### Progress Dashboard 🦾🔥
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/74b0e00e-67c4-4b93-8b7c-da62a21ca4b0" alt="Current day - Default" width="300">
-    <img src="https://github.com/user-attachments/assets/7113b84c-5165-4de5-bea8-23860c70d667" alt="Learned today" width="300">
-    <img src="https://github.com/user-attachments/assets/b77fa24a-4031-4272-b150-fc07cb06645c" alt="Day freezed" width="300">
+    <img src="https://github.com/user-attachments/assets/74b0e00e-67c4-4b93-8b7c-da62a21ca4b0" alt="Current day - Default" width="200">
+    <img src="https://github.com/user-attachments/assets/7113b84c-5165-4de5-bea8-23860c70d667" alt="Learned today" width="200">
+    <img src="https://github.com/user-attachments/assets/b77fa24a-4031-4272-b150-fc07cb06645c" alt="Day freezed" width="200">
 </p>
 
 ### Goal Adjustment 📝
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/3fae57c2-b11c-4e9e-b89a-3ea980d64a3d" alt="Update learning goal - Keyboard" width="300">
+    <img src="https://github.com/user-attachments/assets/3fae57c2-b11c-4e9e-b89a-3ea980d64a3d" alt="Update learning goal - Keyboard" width="200">
 </p>
 
 
