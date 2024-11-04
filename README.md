@@ -29,10 +29,10 @@ Choose your learning duration—week, month, or year—to match your unique pace
 ### Download the Repository
 Access the project files by cloning the repository using: https://github.com/Nouraibn/Learning.git
 
-### Launch in Xcode
+#### Launch in Xcode
 Open the `.xcodeproj` file in Xcode to delve into the project and explore its features.
 
-### Experience the App
+#### Experience the App
 Select your desired simulator or device, and hit run to start your learning journey with the app.
 
 ## Visual Showcase 📸
