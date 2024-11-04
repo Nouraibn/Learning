@@ -8,17 +8,31 @@
 
 /* Begin PBXBuildFile section */
 		2CCC98752CD8ECD1009D334D /* LearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC98742CD8ECD1009D334D /* LearningApp.swift */; };
-		2CCC98772CD8ECD1009D334D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC98762CD8ECD1009D334D /* ContentView.swift */; };
 		2CCC98792CD8ECD2009D334D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CCC98782CD8ECD2009D334D /* Assets.xcassets */; };
 		2CCC987C2CD8ECD2009D334D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CCC987B2CD8ECD2009D334D /* Preview Assets.xcassets */; };
+		2CCC98862CD8ED60009D334D /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC98852CD8ED60009D334D /* Model.swift */; };
+		2CCC98882CD8EDA4009D334D /* OnboardingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC98872CD8EDA4009D334D /* OnboardingScreen.swift */; };
+		2CCC988A2CD8EDEC009D334D /* MainScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC98892CD8EDEC009D334D /* MainScreen.swift */; };
+		2CCC988C2CD8EDFD009D334D /* UpdateScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC988B2CD8EDFD009D334D /* UpdateScreen.swift */; };
+		2CCC988E2CD8EE58009D334D /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC988D2CD8EE58009D334D /* OnboardingViewModel.swift */; };
+		2CCC98902CD8EE90009D334D /* MainScreenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC988F2CD8EE90009D334D /* MainScreenViewModel.swift */; };
+		2CCC98922CD8EEAD009D334D /* UpdateScreenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC98912CD8EEAD009D334D /* UpdateScreenViewModel.swift */; };
+		2CCC98942CD8EEBD009D334D /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCC98932CD8EEBD009D334D /* Date.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2CCC98712CD8ECD1009D334D /* Learning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Learning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CCC98742CD8ECD1009D334D /* LearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningApp.swift; sourceTree = "<group>"; };
-		2CCC98762CD8ECD1009D334D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2CCC98782CD8ECD2009D334D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CCC987B2CD8ECD2009D334D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2CCC98852CD8ED60009D334D /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		2CCC98872CD8EDA4009D334D /* OnboardingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingScreen.swift; sourceTree = "<group>"; };
+		2CCC98892CD8EDEC009D334D /* MainScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreen.swift; sourceTree = "<group>"; };
+		2CCC988B2CD8EDFD009D334D /* UpdateScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateScreen.swift; sourceTree = "<group>"; };
+		2CCC988D2CD8EE58009D334D /* OnboardingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
+		2CCC988F2CD8EE90009D334D /* MainScreenViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenViewModel.swift; sourceTree = "<group>"; };
+		2CCC98912CD8EEAD009D334D /* UpdateScreenViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateScreenViewModel.swift; sourceTree = "<group>"; };
+		2CCC98932CD8EEBD009D334D /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +65,9 @@
 		2CCC98732CD8ECD1009D334D /* Learning */ = {
 			isa = PBXGroup;
 			children = (
-				2CCC98742CD8ECD1009D334D /* LearningApp.swift */,
-				2CCC98762CD8ECD1009D334D /* ContentView.swift */,
+				2CCC98842CD8ED24009D334D /* Model */,
+				2CCC98832CD8ED18009D334D /* View */,
+				2CCC98822CD8ED05009D334D /* ViewModel */,
 				2CCC98782CD8ECD2009D334D /* Assets.xcassets */,
 				2CCC987A2CD8ECD2009D334D /* Preview Content */,
 			);
@@ -65,6 +80,36 @@
 				2CCC987B2CD8ECD2009D334D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2CCC98822CD8ED05009D334D /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				2CCC988D2CD8EE58009D334D /* OnboardingViewModel.swift */,
+				2CCC988F2CD8EE90009D334D /* MainScreenViewModel.swift */,
+				2CCC98912CD8EEAD009D334D /* UpdateScreenViewModel.swift */,
+				2CCC98932CD8EEBD009D334D /* Date.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		2CCC98832CD8ED18009D334D /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2CCC98742CD8ECD1009D334D /* LearningApp.swift */,
+				2CCC98872CD8EDA4009D334D /* OnboardingScreen.swift */,
+				2CCC98892CD8EDEC009D334D /* MainScreen.swift */,
+				2CCC988B2CD8EDFD009D334D /* UpdateScreen.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		2CCC98842CD8ED24009D334D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2CCC98852CD8ED60009D334D /* Model.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +182,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2CCC98772CD8ECD1009D334D /* ContentView.swift in Sources */,
+				2CCC988C2CD8EDFD009D334D /* UpdateScreen.swift in Sources */,
+				2CCC98902CD8EE90009D334D /* MainScreenViewModel.swift in Sources */,
+				2CCC988E2CD8EE58009D334D /* OnboardingViewModel.swift in Sources */,
+				2CCC988A2CD8EDEC009D334D /* MainScreen.swift in Sources */,
 				2CCC98752CD8ECD1009D334D /* LearningApp.swift in Sources */,
+				2CCC98922CD8EEAD009D334D /* UpdateScreenViewModel.swift in Sources */,
+				2CCC98862CD8ED60009D334D /* Model.swift in Sources */,
+				2CCC98942CD8EEBD009D334D /* Date.swift in Sources */,
+				2CCC98882CD8EDA4009D334D /* OnboardingScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
