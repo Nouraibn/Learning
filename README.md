@@ -68,5 +68,5 @@ Facilitate a feature for users to share their progress and achievements with fri
 **Email:** Noura_alnassar@hotmail.com
 <br><br><br>
 ### Thank you for exploring the Learning App! 
-### Happy learning!🎉
+### Happy learning 🎉
 
