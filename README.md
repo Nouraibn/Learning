@@ -66,5 +66,6 @@ Facilitate a feature for users to share their progress and achievements with fri
 
 
 ### Thank you for exploring the Learning App! 
+<br><br><br>
 ### Happy learning!🎉
 
