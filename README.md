@@ -64,9 +64,10 @@ Integrate AI-driven suggestions that align with user interests and previous lear
 ### Community Sharing
 Facilitate a feature for users to share their progress and achievements with friends and the broader learning community on social media.
 
-## Contact 📞
-For any inquiries, please contact [Noura Alnassar](mailto:Noura_alnassar@hotmail.com
-<br><br><br>
+## Contact 📬
+
+For any inquiries, please contact [Noura Alnassar](mailto:Noura_alnassar@hotmail.com).
+
 ### Thank you for exploring the Learning App! 
 ### Happy learning 🎉
 
